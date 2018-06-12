@@ -1,0 +1,13 @@
+QuestionaireID,Description,ViewName,lock
+1,Test,Test,0
+2,Another test,Atest,0
+3,NLR Main form,NLR,0
+4,Interviewer information,Interviewer,0
+0,RESERVED,Reserved,0
+5,NRS Languages,Languages,0
+6,NRS Form 1994-1999,NLR99,0
+7,Namibia Form,Namibia,0
+8,Alternative Energies,AltEnergies,0
+1000000,Clinic Questionaire,ND_Clinic,0
+1000001,Shop Questionaire,ND_shop,0
+1000002,School Questionaire,ND_School,0

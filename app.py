@@ -24,6 +24,9 @@ import base64
 import features
 from support import appProfiles 
 
+app = dash.Dash(__name__)
+server = app.server
+
 # Load images
 erc_logo = os.path.join('img', 'erc_logo.jpg')
 erc_encoded = base64.b64encode(open(erc_logo, 'rb').read())
@@ -553,4 +556,4 @@ def update_questions(search_word):
 
 # Run app from script. Go to 127.0.0.1:8050 to view
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run_server(debug=False)

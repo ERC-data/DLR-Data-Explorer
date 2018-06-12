@@ -1,0 +1,4 @@
+DataTypeId,DataType,Tablename,lock
+1,Blob,Answers_blob                                      ,0
+2,Char,Answers_char                                      ,0
+3,Number,Answers_Number                                    ,0

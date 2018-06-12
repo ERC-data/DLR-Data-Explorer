@@ -101,7 +101,7 @@ ENV/
 .mypy_cache/
 
 # data and Google Drive folders
-/data
+data
 /GoogleDrive_DLR_DB
 /profiles
 /log

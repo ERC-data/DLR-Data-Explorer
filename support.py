@@ -66,18 +66,18 @@ def readAggProfiles(year, directory = 'seasonProfiles'):
     This function fetches aggregate load profile data from disk. aggfunc can be one of pp, aggpp_M, aMd, adtd
     """
     path = os.path.join('data', directory, 'feather')
-    
-    if len(os.listdir(path)) != 21:
-        appData()
-    
-    else:         
-        path = Path(path)        
-        for child in path.iterdir():
-            n = child.name
-            nu = n.split('.')[0].split('_')[-1]
-            if int(nu)==year:
-                df = feather.read_dataframe(str(child))
-                return df     
+#    
+#    if len(os.listdir(path)) != 21:
+#        appData()
+#    
+#    else:         
+    path = Path(path)        
+    for child in path.iterdir():
+        n = child.name
+        nu = n.split('.')[0].split('_')[-1]
+        if int(nu)==year:
+            df = feather.read_dataframe(str(child))
+            return df     
 
 def appProfiles(yearstart, yearend):
     
