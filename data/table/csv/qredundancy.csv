@@ -1,0 +1,929 @@
+QRID,QuestionaireId,QuestionID,LookupQuestionID,Operation,UpperTolerance,LowerTolerance,UseTolerance,lock
+1,1,1,1,Howmanymore-howmany+5,0.0,,True,0
+2,3,7,2,"TimeWithElectricity>OccupationYears 
+
+",0.0,0.0,False,0
+40,3,200,2,"CookAdultsSaturdayBreakfast Is null
+AND CookAdultsSaturdayDinner IS null
+AND CookAdultsSaturdayLunch is null
+AND  CookChildrenSaturdayBreakfast is null
+AND CookChildrenSaturdayDinner is null
+AND CookChildrenSaturdayLunch is null
+",0.0,0.0,False,0
+42,3,199,2,"CookAdultsWeekdayBreakfast Is null
+AND CookAdultsWeekdayDinner IS null
+AND CookAdultsWeekdayLunch is null
+AND  CookChildrenWeekdayBreakfast is null
+AND CookChildrenWeekdayDinner is null
+AND CookChildrenWeekdayLunch is null",0.0,0.0,False,0
+3,3,139,2,"Not (ApplianceGeyserBroken Is Null
+And  ApplianceGeyserNumber Is Null
+And ApplianceGeyserUsage Is Null)
+AND
+Not (Not (ApplianceGeyserBroken Is Null)
+And  Not (ApplianceGeyserNumber Is Null)
+And Not (ApplianceGeyserUsage Is Null))
+AND
+Not(ApplianceGeyserBroken = 1 
+AND ApplianceGeyserNumber >0 
+AND ApplianceGeyserUsage is Null)",0.0,0.0,False,0
+4,3,155,2,"(ApplianceGeyserUsage>0) AND 
+(ApplianceGeyserBroken=1)
+",0.0,0.0,False,0
+5,3,136,2,"Not (ApplianceHeaterBroken Is Null 
+And ApplianceHeaterNumber Is Null
+AND ApplianceHeaterUsage Is Null)
+AND
+Not (Not (ApplianceHeaterBroken Is Null )
+And Not (ApplianceHeaterNumber Is Null)
+AND Not (ApplianceHeaterUsage Is Null))
+AND
+Not(ApplianceHeaterBroken = 1 
+AND ApplianceHeaterNumber >0 
+AND ApplianceHeaterUsage is Null)",0.0,0.0,False,0
+6,3,152,2,"(ApplianceHeaterUsage>0) AND 
+(ApplianceHeaterBroken=1)
+",0.0,0.0,False,0
+7,3,135,2,"Not ((ApplianceHotplateBroken Is Null)
+And (ApplianceHotplateNumber Is Null)
+And (ApplianceHotplateUsage Is Null))
+AND
+Not (Not (ApplianceHotplateBroken Is Null)
+And Not (ApplianceHotplateNumber Is Null)
+And Not (ApplianceHotplateUsage Is Null))
+AND
+Not(ApplianceHotplateBroken = 1 
+AND ApplianceHotplateNumber >0 
+AND ApplianceHotplateUsage is Null)
+",0.0,0.0,False,0
+8,3,151,2,"(ApplianceHotplateUsage>0) AND 
+(ApplianceHotplateBroken=1)
+",0.0,0.0,False,0
+9,3,138,2,"Not ((ApplianceIronBroken Is Null) 
+And (ApplianceIronNumber Is Null)
+And (ApplianceIronUsage Is Null))
+And
+Not (Not (ApplianceIronBroken Is Null) 
+And Not (ApplianceIronNumber Is Null)
+And Not (ApplianceIronUsage Is Null))
+AND
+Not(ApplianceIronBroken = 1 
+AND ApplianceIronNumber >0 
+AND ApplianceIronUsage is Null)
+",0.0,0.0,False,0
+10,3,154,2,"(ApplianceIronUsage>0) AND
+(ApplianceIronBroken=1)
+",0.0,0.0,False,0
+11,3,137,2,"Not ((ApplianceKettleBroken Is Null)
+And (ApplianceKettleNumber Is Null)
+And (ApplianceKettleUsage Is Null))
+AND
+Not (Not (ApplianceKettleBroken Is Null)
+And Not (ApplianceKettleNumber Is Null)
+And Not (ApplianceKettleUsage Is Null))
+AND
+Not(ApplianceKettleBroken = 1 
+AND ApplianceKettleNumber >0 
+AND ApplianceKettleUsage is Null)",0.0,0.0,False,0
+12,3,153,2,"(ApplianceKettleUsage>0)
+AND (ApplianceKettleBroken=1)
+",0.0,0.0,False,0
+13,3,146,2,"Not ((ApplianceMicrowaveBroken Is Null)
+And (ApplianceMicrowaveNumber Is Null)
+And (ApplianceMicrowaveUsage Is Null))
+AND
+Not (Not (ApplianceMicrowaveBroken Is Null)
+And Not (ApplianceMicrowaveNumber Is Null)
+And Not (ApplianceMicrowaveUsage Is Null))
+AND
+Not(ApplianceMicrowaveBroken = 1 
+AND ApplianceMicrowaveNumber >0 
+AND ApplianceMicrowaveUsage is Null)",0.0,0.0,False,0
+14,3,162,2,"ApplianceMicrowaveUsage>0
+AND ApplianceMicrowaveBroken=1
+",0.0,0.0,False,0
+15,3,133,2,"Not((ApplianceStove3plateBroken Is Null)
+And (ApplianceStove3plateNumber Is Null)
+And (ApplianceStove3plateUsage Is Null))
+AND
+Not(Not (ApplianceStove3plateBroken Is Null)
+And Not (ApplianceStove3plateNumber Is Null)
+And Not (ApplianceStove3plateUsage Is Null))
+AND
+Not(ApplianceStove3plateBroken = 1 
+AND ApplianceStove3plateNumber >0 
+AND ApplianceStove3plateUsage is Null)
+",0.0,0.0,False,0
+16,3,117,2,"(ApplianceStove3plateUsage>0)
+AND (ApplianceStove3plateBroken=1)
+",0.0,0.0,False,0
+17,3,134,2,"Not((ApplianceStove4plateBroken Is Null)
+And (ApplianceStove4plateNumber Is Null)
+And (ApplianceStove4plateUsage Is Null))
+AND
+Not(Not (ApplianceStove4plateBroken Is Null)
+And Not (ApplianceStove4plateNumber Is Null)
+And Not (ApplianceStove4plateUsage Is Null))
+AND
+Not(ApplianceStove4plateBroken = 1 
+AND ApplianceStove4plateNumber >0 
+AND ApplianceStove4plateUsage is Null)",0.0,0.0,False,0
+18,3,150,2,"(ApplianceStove4plateUsage>0)
+AND (ApplianceStove4plateBroken=1)
+",0.0,0.0,False,0
+19,3,147,2,"Not ((ApplianceTumbleDrierBroken Is Null)
+And (ApplianceTumbleDrierNumber Is Null)
+And (ApplianceTumbleDrierUsage Is Null))
+AND
+Not (Not (ApplianceTumbleDrierBroken Is Null)
+And Not (ApplianceTumbleDrierNumber Is Null)
+And Not (ApplianceTumbleDrierUsage Is Null))
+AND
+Not(ApplianceTumbledrierBroken = 1 
+AND ApplianceTumbledrierNumber >0 
+AND ApplianceTumbledrierUsage is Null)
+",0.0,0.0,False,0
+20,3,163,2,"(ApplianceTumbleDrierUsage > 0)
+AND (ApplianceTumbleDrierBroken=1)
+",0.0,0.0,False,0
+21,3,140,2,"(Not ((ApplianceWashingMachineBroken Is Null)
+And (ApplianceWashingMachineNumber Is Null)
+And (ApplianceWashingMachineUsage Is Null)))
+And 
+(Not (Not (ApplianceWashingMachineBroken Is Null)
+And Not (ApplianceWashingMachineNumber Is Null)
+And Not (ApplianceWashingMachineUsage Is Null)))
+AND
+Not(ApplianceWashingMachineBroken = 1 
+AND ApplianceWashingMachineNumber >0 
+AND ApplianceWashingMachineUsage is Null)",0.0,0.0,False,0
+22,3,156,2,"(ApplianceWashingMachineUsage>0)
+AND (ApplianceWashingMachineBroken=1)
+",0.0,0.0,False,0
+24,3,206,2,"(IsNull(CookChildrenWeekDayBreakfast,0)
++IsNull(CookChildrenWeekDayDinner,0)
++IsNull(CookChildrenWeekDayLunch,0))/3
+-(IsNull(EducUnder16Grade1,0)
++IsNull(EducUnder16Grade2,0)
++IsNull(EducUnder16Matric,0)
++IsNull(EducUnder16None,0)
++IsNull(EducUnder16Std1,0)
++IsNull(EducUnder16Std2,0)
++IsNull(EducUnder16Std3,0)
++IsNull(EducUnder16Std4,0)
++IsNull(EducUnder16Std5,0)
++IsNull(EducUnder16Std6,0)
++IsNull(EducUnder16Std7,0)
++IsNull(EducUnder16Std8,0)
++IsNull(EducUnder16Std9,0)
++IsNull(EducUnder16Tertiary,0))",10.0,-10.0,True,0
+25,3,42,2,"IsNull(EducHeadGrade1,0)
++IsNull(EducHeadGrade2,0)
++IsNull(EducHeadMatric,0)
++IsNull(EducHeadNone,0)
++IsNull(EducHeadStd1,0)
++IsNull(EducHeadStd2,0)
++IsNull(EducHeadStd3,0)
++IsNull(EducHeadStd4,0)
++IsNull(EducHeadStd5,0)
++IsNull(EducHeadStd6,0)
++IsNull(EducHeadStd7,0)
++IsNull(EducHeadStd8,0)
++IsNull(EducHeadStd9,0)
++IsNull(EducHeadTertiary,0)",1.0,1.0,True,0
+26,3,56,2,"IsNull(EducSpouseGrade1,0)
++IsNull(EducSpouseGrade2,0)
++IsNull(EducSpouseMatric,0)
++IsNull(EducSpouseNone,0)
++IsNull(EducSpouseStd1,0)
++IsNull(EducSpouseStd2,0)
++IsNull(EducSpouseStd3,0)
++IsNull(EducSpouseStd4,0)
++IsNull(EducSpouseStd5,0)
++IsNull(EducSpouseStd6,0)
++IsNull(EducSpouseStd7,0)
++IsNull(EducSpouseStd8,0)
++IsNull(EducSpouseStd9,0)
++IsNull(EducSpouseTertiary,0)",1.0,0.0,True,0
+27,3,70,2,"IsNull(EducOlder16Grade1,0)
++IsNull(EducOlder16Grade2,0)
++IsNull(EducOlder16Matric,0)
++IsNull(EducOlder16None,0)
++IsNull(EducOlder16Std1,0)
++IsNull(EducOlder16Std2,0)
++IsNull(EducOlder16Std3,0)
++IsNull(EducOlder16Std4,0)
++IsNull(EducOlder16Std5,0)
++IsNull(EducOlder16Std6,0)
++IsNull(EducOlder16Std7,0)
++IsNull(EducOlder16Std8,0)
++IsNull(EducOlder16Std9,0)
++IsNull(EducOlder16Tertiary,0)",30.0,0.0,True,0
+28,3,84,2,"(IsNull(EducUnder16Grade1
+,0)+IsNull(EducUnder16Grade2
+,0)+IsNull(EducUnder16Matric
+,0)+IsNull(EducUnder16None
+,0)+IsNull(EducUnder16Std1
+,0)+IsNull(EducUnder16Std2
+,0)+IsNull(EducUnder16Std3
+,0)+IsNull(EducUnder16Std4
+,0)+IsNull(EducUnder16Std5
+,0)+IsNull(EducUnder16Std6
+,0)+IsNull(EducUnder16Std7
+,0)+IsNull(EducUnder16Std8
+,0)+IsNull(EducUnder16Std9
+,0)+IsNull(EducUnder16Tertiary,0))",30.0,0.0,True,0
+29,3,21,2,"IsNull(EmployHeadFull,0)
++IsNull(EmployHeadPartTime,0)
++IsNull(EmployHeadPension,0)
++IsNull(EmployHeadSelf,0)
++IsNull(EmployHeadUnEmployed,0) =0 
+",0.0,0.0,False,0
+30,3,26,2,"(IsNull(EmploySpouseFull
+,0)+IsNull(EmploySpousePart
+,0)+IsNull(EmploySpousePension
+,0)+IsNull(EmploySpouseSelf
+,0)+IsNull(EmploySpouseUnemployed,0))
+<>
+(IsNull(EducSpouseGrade1
+,0)+IsNull(EducSpouseGrade2
+,0)+IsNull(EducSpouseMatric
+,0)+IsNull(EducSpouseNone
+,0)+IsNull(EducSpouseStd1
+,0)+IsNull(EducSpouseStd2
+,0)+IsNull(EducSpouseStd3
+,0)+IsNull(EducSpouseStd4
+,0)+IsNull(EducSpouseStd5
+,0)+IsNull(EducSpouseStd6
+,0)+IsNull(EducSpouseStd7
+,0)+IsNull(EducSpouseStd8
+,0)+IsNull(EducSpouseStd9
+,0)+IsNull(EducSpouseTertiary,0))",0.0,0.0,False,0
+31,3,31,2,"(IsNull(EmployOlder16Full
+,0)+IsNull(EmployOlder16Part
+,0)+IsNull(EmployOlder16Pension
+,0)+IsNull(EmployOlder16Self
+,0)+IsNull(EmployOlder16Unemployed,0))
+<>
+(IsNull(EducOlder16Grade1
+,0)+IsNull(EducOlder16Grade2
+,0)+IsNull(EducOlder16Matric
+,0)+IsNull(EducOlder16None
+,0)+IsNull(EducOlder16Std1
+,0)+IsNull(EducOlder16Std2
+,0)+IsNull(EducOlder16Std3
+,0)+IsNull(EducOlder16Std4
+,0)+IsNull(EducOlder16Std5
+,0)+IsNull(EducOlder16Std6
+,0)+IsNull(EducOlder16Std7
+,0)+IsNull(EducOlder16Std8
+,0)+IsNull(EducOlder16Std9
+,0)+IsNull(EducOlder16Tertiary,0))",0.0,0.0,False,0
+32,3,36,2,"(IsNull(EmployUnder16Full
+,0)+IsNull(EmployUnder16Part
+,0)+IsNull(EmployUnder16Pension
+,0)+IsNull(EmployUnder16Self
+,0)+IsNull(EmployUnder16Unemployed,0))
+<>
+(IsNull(EducUnder16Grade1
+,0)+IsNull(EducUnder16Grade2
+,0)+IsNull(EducUnder16Matric
+,0)+IsNull(EducUnder16None
+,0)+IsNull(EducUnder16Std1
+,0)+IsNull(EducUnder16Std2
+,0)+IsNull(EducUnder16Std3
+,0)+IsNull(EducUnder16Std4
+,0)+IsNull(EducUnder16Std5
+,0)+IsNull(EducUnder16Std6
+,0)+IsNull(EducUnder16Std7
+,0)+IsNull(EducUnder16Std8
+,0)+IsNull(EducUnder16Std9
+,0)+IsNull(EducUnder16Tertiary,0))",0.0,0.0,False,0
+33,3,17,2,"(IsNull(FemalesYoungerThan16
+,0)+IsNull(MalesYoungerThan16,0))<>
+(IsNull(EmployUnder16Full
+,0)+IsNull(EmployUnder16Part
+,0)+IsNull(EmployUnder16Pension
+,0)+IsNull(EmployUnder16Self
+,0)+IsNull(EmployUnder16Unemployed,0))",0.0,0.0,False,0
+34,3,240,2,"(IsNull(Females16To24
+,0)+IsNull(Females25To34
+,0)+IsNull(Females35To49
+,0)+IsNull(FemalesOlder50
+,0)+IsNull(Males16To24
+,0)+IsNull(Males25To34
+,0)+IsNull(Males35To49
+,0)+IsNull(MalesOlderThan50,0))
+-(IsNull(EmployHeadFull
+,0)+IsNull(EmployHeadPartTime
+,0)+IsNull(EmployHeadPension
+,0)+IsNull(EmployHeadSelf
+,0)+IsNull(EmployHeadUnEmployed
+,0)+IsNull(EmployOlder16Full
+,0)+IsNull(EmployOlder16part
+,0)+IsNull(EmployOlder16Pension
+,0)+IsNull(EmployOlder16Self
+,0)+IsNull(EmployOlder16Unemployed
+,0)+IsNull(EmploySpouseFull
+,0)+IsNull(EmploySpousePart
+,0)+IsNull(EmploySpousePension
+,0)+IsNull(EmploySpouseSelf
+,0)+IsNull(EmploySpouseUnemployed,0))",5.0,-5.0,True,0
+35,3,104,2,"(IncomeAdults Is Null)
+And (IncomeRefuse=0)
+",0.0,0.0,False,0
+36,3,100,2,"(IncomeAggricultural is null)
+And (IncomeAggriculturalYesNo =1)
+",0.0,0.0,False,0
+37,3,98,2,"(IncomeExternal is Null) AND
+(IncomeExternalYesNo=1)
+",0.0,0.0,False,0
+38,3,102,2,"(IncomeSmallBusiness is null)
+AND (IncomeSmallBusinessYesNo=1)
+",0.0,0.0,False,0
+39,3,103,2,"(IsNull(NumberAdultsEarningSalary,0))>(
+IsNull(Males16To24
+,0)+IsNull(Males25To34
+,0)+IsNull(Males35To49
+,0)+IsNull(MalesOlderThan50
+,0)+IsNull(Females16To24
+,0)+IsNull(Females25To34
+,0)+IsNull(Females35To49
+,0)+IsNull(FemalesOlder50,0))",0.0,0.0,False,0
+41,3,203,2,"CookAdultsSundayBreakfast Is null
+AND CookAdultsSundayDinner IS null
+AND CookAdultsSundayLunch is null
+AND  CookChildrenSundayBreakfast is null
+AND CookChildrenSundayDinner is null
+AND CookChildrenSundayLunch is null",0.0,0.0,False,0
+83,7,276,2,"((AltApplianceDeepFreezeEnergyUsed  is null)                                         
+AND                                                                                                              (AltApplianceDeepFreezeNumber > 0))
+OR
+((AltApplianceDeepFreezeEnergyUsed  is not null) AND
+(AltApplianceDeepFreezeNumber is null))
+OR
+((AltApplianceDeepFreezeEnergyUsed  is not null) AND
+(AltApplianceDeepFreezeNumber=0))",0.0,0.0,False,0
+84,7,275,2,"((AltApplianceFridgeEnergyUsed  is null)                                         
+AND (AltApplianceFridgeNumber > 0))
+OR
+((AltApplianceFridgeEnergyUsed  is not null) AND
+(AltApplianceFridgeNumber is null))
+OR
+((AltApplianceFridgeEnergyUsed  is not null) AND
+(AltApplianceFridgeNumber=0))",0.0,0.0,False,0
+85,7,273,2,"((AltApplianceGeyserEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceGeyserNumber > 0))
+OR
+((AltApplianceGeyserEnergyUsed  is not null) AND
+(AltApplianceGeyserNumber is null))
+OR
+((AltApplianceGeyserEnergyUsed  is not null) AND
+(AltApplianceGeyserNumber=0))",0.0,0.0,False,0
+86,7,265,2,"Not (AltApplianceGeyserWorking Is Null
+And  AltApplianceGeyserNumber Is Null
+And AltApplianceGeyserUsage Is Null)
+AND
+Not (Not (AltApplianceGeyserWorking Is Null)
+And  Not (AltApplianceGeyserNumber Is Null)
+And Not (AltApplianceGeyserUsage Is Null))
+AND
+Not(AltApplianceGeyserWorking = 0 
+AND AltApplianceGeyserNumber >0 
+AND AltApplianceGeyserUsage is Null)",0.0,0.0,False,0
+87,7,270,2,"((AltApplianceHeaterEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceHeaterNumber > 0))
+OR
+((AltApplianceHeaterEnergyUsed  is not null) AND
+(AltApplianceHeaterNumber is null))
+OR
+((AltApplianceHeaterEnergyUsed  is not null) AND
+(AltApplianceHeaterNumber=0))",0.0,0.0,False,0
+88,7,269,2,"((AltApplianceHotplateEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceHotplateNumber > 0))
+OR
+((AltApplianceHotplateEnergyUsed  is not null) AND
+(AltApplianceHotplateNumber is null))
+OR
+((AltApplianceHotplateEnergyUsed  is not null) AND
+(AltApplianceHotplateNumber=0))",0.0,0.0,False,0
+90,7,271,2,"((AltApplianceKettleEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceKettleNumber > 0))
+OR
+((AltApplianceKettleEnergyUsed  is not null) AND
+(AltApplianceKettleNumber is null))
+OR
+((AltApplianceKettleEnergyUsed  is not null) AND
+(AltApplianceKettleNumber=0))",0.0,0.0,False,0
+91,7,274,2,"((AltApplianceLightsEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceLightsNumber > 0))
+OR
+((AltApplianceLightsEnergyUsed  is not null) AND
+(AltApplianceLightsNumber is null))
+OR
+((AltApplianceLightsEnergyUsed  is not null) AND
+(AltApplianceLightsNumber=0))",0.0,0.0,False,0
+92,7,288,2,"(AltApplianceOtherUsage>0) AND 
+(AltApplianceOtherWorking=0)",0.0,0.0,False,0
+93,7,267,2,"((AltApplianceStove3plateEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceStove3plateNumber > 0))
+OR
+((AltApplianceStove3plateEnergyUsed  is not null) AND
+(AltApplianceStove3plateNumber is null))
+OR
+((AltApplianceStove3plateEnergyUsed  is not null) AND
+(AltApplianceStove3plateNumber=0))",0.0,0.0,False,0
+94,7,268,2,"((AltApplianceStove4plateEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceStove4plateNumber > 0))
+OR
+((AltApplianceStove4plateEnergyUsed  is not null) AND
+(AltApplianceStove4plateNumber is null))
+OR
+((AltApplianceStove4plateEnergyUsed  is not null) AND
+(AltApplianceStove4plateNumber=0))",0.0,0.0,False,0
+95,7,284,2,"(AltApplianceGeyserUsage>0) AND 
+(AltApplianceGeyserWorking=0)",0.0,0.0,False,0
+96,7,281,2,"(AltApplianceHeaterUsage>0) AND 
+(AltApplianceHeaterWorking=0)",0.0,0.0,True,0
+97,7,280,2,"(AltApplianceHotplateUsage>0) AND 
+(AltApplianceHotplateWorking=0)",0.0,0.0,True,0
+98,7,283,2,"(AltApplianceIronUsage>0) AND 
+(AltApplianceIronWorking=0)",0.0,0.0,True,0
+99,7,282,2,"(AltApplianceKettleUsage>0) AND 
+(AltApplianceKettleWorking=0)",0.0,0.0,True,0
+101,7,278,2,"(AltApplianceStove3plateUsage>0) AND 
+(AltApplianceStove3plateWorking=0)",0.0,0.0,False,0
+102,7,279,2,"(AltApplianceStove4plateUsage>0) AND 
+(AltApplianceStove4plateWorking=0)",0.0,0.0,False,0
+103,7,262,2,"Not (AltApplianceHeaterWorking Is Null
+And  AltApplianceHeaterNumber Is Null
+And AltApplianceHeaterUsage Is Null)
+AND
+Not (Not (AltApplianceHeaterWorking Is Null)
+And  Not (AltApplianceHeaterNumber Is Null)
+And Not (AltApplianceHeaterUsage Is Null))
+AND
+Not(AltApplianceHeaterWorking = 0 
+AND AltApplianceHeaterNumber >0 
+AND AltApplianceHeaterUsage is Null)",0.0,0.0,False,0
+104,7,261,2,"Not (AltApplianceHotplateWorking Is Null
+And  AltApplianceHotplateNumber Is Null
+And AltApplianceHotplateUsage Is Null)
+AND
+Not (Not (AltApplianceHotplateWorking Is Null)
+And  Not (AltApplianceHotplateNumber Is Null)
+And Not (AltApplianceHotplateUsage Is Null))
+AND
+Not(AltApplianceHotplateWorking = 0 
+AND AltApplianceHotplateNumber >0 
+AND AltApplianceHotplateUsage is Null)",0.0,0.0,False,0
+105,7,264,2,"Not (AltApplianceIronWorking Is Null
+And  AltApplianceIronNumber Is Null
+And AltApplianceIronUsage Is Null)
+AND
+Not (Not (AltApplianceIronWorking Is Null)
+And  Not (AltApplianceIronNumber Is Null)
+And Not (AltApplianceIronUsage Is Null))
+AND
+Not(AltApplianceIronWorking = 0 
+AND AltApplianceIronNumber >0 
+AND AltApplianceIronUsage is Null)",0.0,0.0,False,0
+106,7,263,2,"Not (AltApplianceKettleWorking Is Null
+And  AltApplianceKettleNumber Is Null
+And AltApplianceKettleUsage Is Null)
+AND
+Not (Not (AltApplianceKettleWorking Is Null)
+And  Not (AltApplianceKettleNumber Is Null)
+And Not (AltApplianceKettleUsage Is Null))
+AND
+Not(AltApplianceKettleWorking = 0 
+AND AltApplianceKettleNumber >0 
+AND AltApplianceKettleUsage is Null)",0.0,0.0,False,0
+107,7,266,2,"Not (AltApplianceOtherWorking Is Null
+And  AltApplianceOtherNumber Is Null
+And AltApplianceOtherUsage Is Null)
+AND
+Not (Not (AltApplianceOtherWorking Is Null)
+And  Not (AltApplianceOtherNumber Is Null)
+And Not (AltApplianceOtherUsage Is Null))
+AND
+Not(AltApplianceOtherWorking = 0 
+AND AltApplianceOtherNumber >0 
+AND AltApplianceOtherUsage is Null)",0.0,0.0,False,0
+108,7,259,2,"Not (AltApplianceStove3plateWorking Is Null
+And  AltApplianceStove3plateNumber Is Null
+And AltApplianceStove3plateUsage Is Null)
+AND
+Not (Not (AltApplianceStove3plateWorking Is Null)
+And  Not (AltApplianceStove3plateNumber Is Null)
+And Not (AltApplianceStove3plateUsage Is Null))
+AND
+Not(AltApplianceStove3plateWorking = 0 
+AND AltApplianceStove3plateNumber >0 
+AND AltApplianceStove3plateUsage is Null)",0.0,0.0,False,0
+109,7,260,2,"Not (AltApplianceStove4plateWorking Is Null
+And  AltApplianceStove4plateNumber Is Null
+And AltApplianceStove4plateUsage Is Null)
+AND
+Not (Not (AltApplianceStove4plateWorking Is Null)
+And  Not (AltApplianceStove4plateNumber Is Null)
+And Not (AltApplianceStove4plateUsage Is Null))
+AND
+Not(AltApplianceStove4plateWorking = 0 
+AND AltApplianceStove4plateNumber >0 
+AND AltApplianceStove4plateUsage is Null)",0.0,0.0,False,0
+110,7,247,2,"Not ((ApplianceUnderFloorHeatingWorking Is Null)
+And (ApplianceUnderFloorHeating Is Null)
+And (ApplianceUnderFloorHeatingUsage Is Null))
+AND
+Not (Not (ApplianceUnderFloorHeatingWorking Is Null)
+And Not (ApplianceUnderFloorHeating Is Null)
+And Not (ApplianceUnderFloorHeatingUsage Is Null))
+AND
+Not(ApplianceUnderFloorHeatingWorking = 0
+AND ApplianceUnderFloorHeating >0 
+AND ApplianceUnderFloorHeatingUsage is Null)",0.0,0.0,False,0
+111,7,246,2,"(ApplianceTumbleDrierUsage > 0)
+AND (ApplianceTumbleDrierWorking=0)
+",0.0,0.0,False,0
+43,7,7,2,"TimeWithElectricity>OccupationYears 
+
+",0.0,0.0,False,0
+44,7,139,2,"Not (ApplianceGeyserWorking Is Null
+And  ApplianceGeyserNumber Is Null
+And ApplianceGeyserUsage Is Null)
+AND
+Not (Not (ApplianceGeyserWorking Is Null)
+And  Not (ApplianceGeyserNumber Is Null)
+And Not (ApplianceGeyserUsage Is Null))
+AND
+Not(ApplianceGeyserWorking = 0 
+AND ApplianceGeyserNumber >0 
+AND ApplianceGeyserUsage is Null)",0.0,0.0,False,0
+45,7,155,2,"(ApplianceGeyserUsage>0) AND 
+(ApplianceGeyserWorking=0)
+",0.0,0.0,False,0
+46,7,136,2,"Not (ApplianceHeaterWorking Is Null 
+And ApplianceHeaterNumber Is Null
+AND ApplianceHeaterUsage Is Null)
+AND
+Not (Not (ApplianceHeaterWorking Is Null )
+And Not (ApplianceHeaterNumber Is Null)
+AND Not (ApplianceHeaterUsage Is Null))
+AND
+Not(ApplianceHeaterWorking =0
+AND ApplianceHeaterNumber >0 
+AND ApplianceHeaterUsage is Null)",0.0,0.0,False,0
+47,7,152,2,"(ApplianceHeaterUsage>0) AND 
+(ApplianceHeaterWorking=0)
+",0.0,0.0,False,0
+48,7,135,2,"Not ((ApplianceHotplateWorking Is Null)
+And (ApplianceHotplateNumber Is Null)
+And (ApplianceHotplateUsage Is Null))
+AND
+Not (Not (ApplianceHotplateWorking Is Null)
+And Not (ApplianceHotplateNumber Is Null)
+And Not (ApplianceHotplateUsage Is Null))
+AND
+Not(ApplianceHotplateWorking = 0 
+AND ApplianceHotplateNumber >0 
+AND ApplianceHotplateUsage is Null)
+",0.0,0.0,False,0
+49,7,151,2,"(ApplianceHotplateUsage>0) AND 
+(ApplianceHotplateWorking=0)
+",0.0,0.0,False,0
+50,7,138,2,"Not ((ApplianceIronWorking Is Null) 
+And (ApplianceIronNumber Is Null)
+And (ApplianceIronUsage Is Null))
+And
+Not (Not (ApplianceIronWorking Is Null) 
+And Not (ApplianceIronNumber Is Null)
+And Not (ApplianceIronUsage Is Null))
+AND
+Not(ApplianceIronWorking = 0 
+AND ApplianceIronNumber >0 
+AND ApplianceIronUsage is Null)
+",0.0,0.0,False,0
+51,7,154,2,"(ApplianceIronUsage>0) AND
+(ApplianceIronWorking=0)
+",0.0,0.0,False,0
+52,7,137,2,"Not ((ApplianceKettleWorking Is Null)
+And (ApplianceKettleNumber Is Null)
+And (ApplianceKettleUsage Is Null))
+AND
+Not (Not (ApplianceKettleWorking Is Null)
+And Not (ApplianceKettleNumber Is Null)
+And Not (ApplianceKettleUsage Is Null))
+AND
+Not(ApplianceKettleWorking = 0
+AND ApplianceKettleNumber >0 
+AND ApplianceKettleUsage is Null)",0.0,0.0,False,0
+53,7,153,2,"(ApplianceKettleUsage>0)
+AND (ApplianceKettleWorking=0)
+",0.0,0.0,False,0
+54,7,146,2,"Not ((ApplianceMicrowaveWorking Is Null)
+And (ApplianceMicrowaveNumber Is Null)
+And (ApplianceMicrowaveUsage Is Null))
+AND
+Not (Not (ApplianceMicrowaveWorking Is Null)
+And Not (ApplianceMicrowaveNumber Is Null)
+And Not (ApplianceMicrowaveUsage Is Null))
+AND
+Not(ApplianceMicrowaveWorking = 0 
+AND ApplianceMicrowaveNumber >0 
+AND ApplianceMicrowaveUsage is Null)",0.0,0.0,False,0
+55,7,162,2,"ApplianceMicrowaveUsage>0
+AND ApplianceMicrowaveWorking=0
+",0.0,0.0,False,0
+56,7,133,2,"Not((ApplianceStove3plateWorking Is Null)
+And (ApplianceStove3plateNumber Is Null)
+And (ApplianceStove3plateUsage Is Null))
+AND
+Not(Not (ApplianceStove3plateWorking Is Null)
+And Not (ApplianceStove3plateNumber Is Null)
+And Not (ApplianceStove3plateUsage Is Null))
+AND
+Not(ApplianceStove3plateWorking = 1 
+AND ApplianceStove3plateNumber >0 
+AND ApplianceStove3plateUsage is Null)
+",0.0,0.0,False,0
+57,7,117,2,"(ApplianceStove3plateUsage>0)
+AND (ApplianceStove3plateWorking=0)
+",0.0,0.0,False,0
+58,7,134,2,"Not((ApplianceStove4plateWorking Is Null)
+And (ApplianceStove4plateNumber Is Null)
+And (ApplianceStove4plateUsage Is Null))
+AND
+Not(Not (ApplianceStove4plateWorking Is Null)
+And Not (ApplianceStove4plateNumber Is Null)
+And Not (ApplianceStove4plateUsage Is Null))
+AND
+Not(ApplianceStove4plateWorking = 0 
+AND ApplianceStove4plateNumber >0 
+AND ApplianceStove4plateUsage is Null)",0.0,0.0,False,0
+59,7,150,2,"(ApplianceStove4plateUsage>0)
+AND (ApplianceStove4plateWorking=0)
+",0.0,0.0,False,0
+60,7,147,2,"Not ((ApplianceTumbleDrierWorking Is Null)
+And (ApplianceTumbleDrierNumber Is Null)
+And (ApplianceTumbleDrierUsage Is Null))
+AND
+Not (Not (ApplianceTumbleDrierWorking Is Null)
+And Not (ApplianceTumbleDrierNumber Is Null)
+And Not (ApplianceTumbleDrierUsage Is Null))
+AND
+Not(ApplianceTumbledrierWorking = 0
+AND ApplianceTumbledrierNumber >0 
+AND ApplianceTumbledrierUsage is Null)
+",0.0,0.0,False,0
+61,7,163,2,"(ApplianceTumbleDrierUsage > 0)
+AND (ApplianceTumbleDrierWorking=0)
+",0.0,0.0,False,0
+62,7,140,2,"(Not ((ApplianceWashingMachineWorking Is Null)
+And (ApplianceWashingMachineNumber Is Null)
+And (ApplianceWashingMachineUsage Is Null)))
+And 
+(Not (Not (ApplianceWashingMachineWorking Is Null)
+And Not (ApplianceWashingMachineNumber Is Null)
+And Not (ApplianceWashingMachineUsage Is Null)))
+AND
+Not(ApplianceWashingMachineWorking = 0 
+AND ApplianceWashingMachineNumber >0 
+AND ApplianceWashingMachineUsage is Null)",0.0,0.0,False,0
+63,7,156,2,"(ApplianceWashingMachineUsage>0)
+AND (ApplianceWashingMachineWorking=0)
+",0.0,0.0,False,0
+64,7,206,2,"(IsNull(CookChildrenWeekDayBreakfast,0)
++IsNull(CookChildrenWeekDayDinner,0)
++IsNull(CookChildrenWeekDayLunch,0))/3
+-(IsNull(EducUnder16Grade1,0)
++IsNull(EducUnder16Grade2,0)
++IsNull(EducUnder16Matric,0)
++IsNull(EducUnder16None,0)
++IsNull(EducUnder16Std1,0)
++IsNull(EducUnder16Std2,0)
++IsNull(EducUnder16Std3,0)
++IsNull(EducUnder16Std4,0)
++IsNull(EducUnder16Std5,0)
++IsNull(EducUnder16Std6,0)
++IsNull(EducUnder16Std7,0)
++IsNull(EducUnder16Std8,0)
++IsNull(EducUnder16Std9,0)
++IsNull(EducUnder16Tertiary,0))",10.0,-10.0,True,0
+65,7,42,2,"IsNull(EducHeadGrade1,0)
++IsNull(EducHeadGrade2,0)
++IsNull(EducHeadMatric,0)
++IsNull(EducHeadNone,0)
++IsNull(EducHeadStd1,0)
++IsNull(EducHeadStd2,0)
++IsNull(EducHeadStd3,0)
++IsNull(EducHeadStd4,0)
++IsNull(EducHeadStd5,0)
++IsNull(EducHeadStd6,0)
++IsNull(EducHeadStd7,0)
++IsNull(EducHeadStd8,0)
++IsNull(EducHeadStd9,0)
++IsNull(EducHeadTertiary,0)",1.0,1.0,True,0
+66,7,56,2,"IsNull(EducSpouseGrade1,0)
++IsNull(EducSpouseGrade2,0)
++IsNull(EducSpouseMatric,0)
++IsNull(EducSpouseNone,0)
++IsNull(EducSpouseStd1,0)
++IsNull(EducSpouseStd2,0)
++IsNull(EducSpouseStd3,0)
++IsNull(EducSpouseStd4,0)
++IsNull(EducSpouseStd5,0)
++IsNull(EducSpouseStd6,0)
++IsNull(EducSpouseStd7,0)
++IsNull(EducSpouseStd8,0)
++IsNull(EducSpouseStd9,0)
++IsNull(EducSpouseTertiary,0)",1.0,0.0,True,0
+67,7,70,2,"IsNull(EducOlder16Grade1,0)
++IsNull(EducOlder16Grade2,0)
++IsNull(EducOlder16Matric,0)
++IsNull(EducOlder16None,0)
++IsNull(EducOlder16Std1,0)
++IsNull(EducOlder16Std2,0)
++IsNull(EducOlder16Std3,0)
++IsNull(EducOlder16Std4,0)
++IsNull(EducOlder16Std5,0)
++IsNull(EducOlder16Std6,0)
++IsNull(EducOlder16Std7,0)
++IsNull(EducOlder16Std8,0)
++IsNull(EducOlder16Std9,0)
++IsNull(EducOlder16Tertiary,0)",30.0,0.0,True,0
+68,7,84,2,"(IsNull(EducUnder16Grade1
+,0)+IsNull(EducUnder16Grade2
+,0)+IsNull(EducUnder16Matric
+,0)+IsNull(EducUnder16None
+,0)+IsNull(EducUnder16Std1
+,0)+IsNull(EducUnder16Std2
+,0)+IsNull(EducUnder16Std3
+,0)+IsNull(EducUnder16Std4
+,0)+IsNull(EducUnder16Std5
+,0)+IsNull(EducUnder16Std6
+,0)+IsNull(EducUnder16Std7
+,0)+IsNull(EducUnder16Std8
+,0)+IsNull(EducUnder16Std9
+,0)+IsNull(EducUnder16Tertiary,0))",30.0,0.0,True,0
+69,7,21,2,"IsNull(EmployHeadFull,0)
++IsNull(EmployHeadPartTime,0)
++IsNull(EmployHeadPension,0)
++IsNull(EmployHeadSelf,0)
++IsNull(EmployHeadUnEmployed,0) =0 
+",0.0,0.0,False,0
+70,7,26,2,"(IsNull(EmploySpouseFull
+,0)+IsNull(EmploySpousePart
+,0)+IsNull(EmploySpousePension
+,0)+IsNull(EmploySpouseSelf
+,0)+IsNull(EmploySpouseUnemployed,0))
+<>
+(IsNull(EducSpouseGrade1
+,0)+IsNull(EducSpouseGrade2
+,0)+IsNull(EducSpouseMatric
+,0)+IsNull(EducSpouseNone
+,0)+IsNull(EducSpouseStd1
+,0)+IsNull(EducSpouseStd2
+,0)+IsNull(EducSpouseStd3
+,0)+IsNull(EducSpouseStd4
+,0)+IsNull(EducSpouseStd5
+,0)+IsNull(EducSpouseStd6
+,0)+IsNull(EducSpouseStd7
+,0)+IsNull(EducSpouseStd8
+,0)+IsNull(EducSpouseStd9
+,0)+IsNull(EducSpouseTertiary,0))",0.0,0.0,False,0
+71,7,31,2,"(IsNull(EmployOlder16Full
+,0)+IsNull(EmployOlder16Part
+,0)+IsNull(EmployOlder16Pension
+,0)+IsNull(EmployOlder16Self
+,0)+IsNull(EmployOlder16Unemployed,0))
+<>
+(IsNull(EducOlder16Grade1
+,0)+IsNull(EducOlder16Grade2
+,0)+IsNull(EducOlder16Matric
+,0)+IsNull(EducOlder16None
+,0)+IsNull(EducOlder16Std1
+,0)+IsNull(EducOlder16Std2
+,0)+IsNull(EducOlder16Std3
+,0)+IsNull(EducOlder16Std4
+,0)+IsNull(EducOlder16Std5
+,0)+IsNull(EducOlder16Std6
+,0)+IsNull(EducOlder16Std7
+,0)+IsNull(EducOlder16Std8
+,0)+IsNull(EducOlder16Std9
+,0)+IsNull(EducOlder16Tertiary,0))",0.0,0.0,False,0
+72,7,36,2,"(IsNull(EmployUnder16Full
+,0)+IsNull(EmployUnder16Part
+,0)+IsNull(EmployUnder16Pension
+,0)+IsNull(EmployUnder16Self
+,0)+IsNull(EmployUnder16Unemployed,0))
+<>
+(IsNull(EducUnder16Grade1
+,0)+IsNull(EducUnder16Grade2
+,0)+IsNull(EducUnder16Matric
+,0)+IsNull(EducUnder16None
+,0)+IsNull(EducUnder16Std1
+,0)+IsNull(EducUnder16Std2
+,0)+IsNull(EducUnder16Std3
+,0)+IsNull(EducUnder16Std4
+,0)+IsNull(EducUnder16Std5
+,0)+IsNull(EducUnder16Std6
+,0)+IsNull(EducUnder16Std7
+,0)+IsNull(EducUnder16Std8
+,0)+IsNull(EducUnder16Std9
+,0)+IsNull(EducUnder16Tertiary,0))",0.0,0.0,False,0
+73,7,17,2,"(IsNull(FemalesYoungerThan16
+,0)+IsNull(MalesYoungerThan16,0))<>
+(IsNull(EmployUnder16Full
+,0)+IsNull(EmployUnder16Part
+,0)+IsNull(EmployUnder16Pension
+,0)+IsNull(EmployUnder16Self
+,0)+IsNull(EmployUnder16Unemployed,0))",0.0,0.0,False,0
+74,7,240,2,"(IsNull(Females16To24
+,0)+IsNull(Females25To34
+,0)+IsNull(Females35To49
+,0)+IsNull(FemalesOlder50
+,0)+IsNull(Males16To24
+,0)+IsNull(Males25To34
+,0)+IsNull(Males35To49
+,0)+IsNull(MalesOlderThan50,0))
+-(IsNull(EmployHeadFull
+,0)+IsNull(EmployHeadPartTime
+,0)+IsNull(EmployHeadPension
+,0)+IsNull(EmployHeadSelf
+,0)+IsNull(EmployHeadUnEmployed
+,0)+IsNull(EmployOlder16Full
+,0)+IsNull(EmployOlder16part
+,0)+IsNull(EmployOlder16Pension
+,0)+IsNull(EmployOlder16Self
+,0)+IsNull(EmployOlder16Unemployed
+,0)+IsNull(EmploySpouseFull
+,0)+IsNull(EmploySpousePart
+,0)+IsNull(EmploySpousePension
+,0)+IsNull(EmploySpouseSelf
+,0)+IsNull(EmploySpouseUnemployed,0))",5.0,-5.0,True,0
+75,7,104,2,"(IncomeAdults Is Null)
+And (IncomeRefuse=0)
+",0.0,0.0,False,0
+76,7,100,2,"(IncomeAggricultural is null)
+And (IncomeAggriculturalYesNo =1)
+",0.0,0.0,False,0
+77,7,98,2,"(IncomeExternal is Null) AND
+(IncomeExternalYesNo=1)
+",0.0,0.0,False,0
+78,7,102,2,"(IncomeSmallBusiness is null)
+AND (IncomeSmallBusinessYesNo=1)
+",0.0,0.0,False,0
+79,7,103,2,"(IsNull(NumberAdultsEarningSalary,0))>(
+IsNull(Males16To24
+,0)+IsNull(Males25To34
+,0)+IsNull(Males35To49
+,0)+IsNull(MalesOlderThan50
+,0)+IsNull(Females16To24
+,0)+IsNull(Females25To34
+,0)+IsNull(Females35To49
+,0)+IsNull(FemalesOlder50,0))",0.0,0.0,False,0
+80,7,200,2,"CookAdultsSaturdayBreakfast Is null
+AND CookAdultsSaturdayDinner IS null
+AND CookAdultsSaturdayLunch is null
+AND  CookChildrenSaturdayBreakfast is null
+AND CookChildrenSaturdayDinner is null
+AND CookChildrenSaturdayLunch is null
+",0.0,0.0,False,0
+81,7,203,2,"CookAdultsSundayBreakfast Is null
+AND CookAdultsSundayDinner IS null
+AND CookAdultsSundayLunch is null
+AND  CookChildrenSundayBreakfast is null
+AND CookChildrenSundayDinner is null
+AND CookChildrenSundayLunch is null",0.0,0.0,False,0
+82,7,199,2,"CookAdultsWeekdayBreakfast Is null
+AND CookAdultsWeekdayDinner IS null
+AND CookAdultsWeekdayLunch is null
+AND  CookChildrenWeekdayBreakfast is null
+AND CookChildrenWeekdayDinner is null
+AND CookChildrenWeekdayLunch is null",0.0,0.0,False,0
+89,7,272,2,"((AltApplianceIronEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceIronNumber > 0))
+OR
+((AltApplianceIronEnergyUsed  is not null) AND
+(AltApplianceIronNumber is null))
+OR
+((AltApplianceIronEnergyUsed  is not null) AND
+(AltApplianceIronNumber=0))",0.0,0.0,False,0
+100,7,277,2,"((AltApplianceOtherEnergyUsed  is null)                                         
+AND                                                                                                    
+(AltApplianceOtherNumber > 0))
+OR
+((AltApplianceOtherEnergyUsed  is not null) AND
+(AltApplianceOtherNumber is null))
+OR
+((AltApplianceOtherEnergyUsed  is not null) AND
+(AltApplianceOtherNumber=0))",0.0,0.0,False,0

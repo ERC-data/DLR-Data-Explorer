@@ -1,0 +1,228 @@
+ContextID,GroupID,Dom_NonDom,Survey,Year,Location,LocName,Lat,Long,Province,Municipality,District
+2,21,Domestic LR,Eskom LR,2000,2000 Garagapola,Garagapola,-24.56,30.16,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+2,23,Domestic LR,Eskom LR,2000,2000 Gasese,Gasese,-27.11,23.05,NC,Joe Morolong,John Taolo Gaetsewe
+2,25,Domestic LR,Eskom LR,2000,2000 Antioch,Antioch,-30.09,29.81,KZN,Umzimkhulu,Sisonke
+2,20,Domestic LR,Eskom LR,2000,2000 Makipsvlei,Makipsvlei,-24.92,29.04,LIM,Ephraim Mogale,Sekhukhune
+2,22,Domestic LR,Eskom LR,2000,2000 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+2,24,Domestic LR,Eskom LR,2000,2000 Qumbu,Qumbu,-31.19,28.87,EC,Mhlontlo,O.R.Tambo
+2,28,Domestic LR,Eskom LR,2000,2000 Mafefe,Mafefe,-24.16,30.1,LIM,Lepele-Nkumpi,Capricorn
+4,77,Domestic LR,Eskom LR,1999,1999 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+4,79,Domestic LR,Eskom LR,1999,1999 Makipsvlei,Makipsvlei,-24.92,29.04,LIM,Ephraim Mogale,Sekhukhune
+4,81,Domestic LR,Eskom LR,1999,1999 Antioch,Antioch,-30.09,29.81,KZN,Umzimkhulu,Sisonke
+4,83,Domestic LR,Eskom LR,1999,1999 Gasese,Gasese,-27.11,23.05,NC,Joe Morolong,John Taolo Gaetsewe
+4,84,Domestic LR,Eskom LR,1999,1999 Mafefe,Mafefe,-24.16,30.1,LIM,Lepele-Nkumpi,Capricorn
+4,78,Domestic LR,Eskom LR,1999,1999 Qumbu,Qumbu,-31.19,28.87,EC,Mhlontlo,O.R.Tambo
+4,80,Domestic LR,Eskom LR,1999,1999 Ivory Park,Ivory Park,-25.994387,28.197012,GP,City of Johannesburg,City of Johannesburg
+4,82,Domestic LR,Eskom LR,1999,1999 Garagapola,Garagapola,-24.56,30.16,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+4,57,Domestic LR,Eskom LR,1998,1998 Ivory Park,Ivory Park,-25.994387,28.197012,GP,City of Johannesburg,City of Johannesburg
+4,58,Domestic LR,Eskom LR,1998,1998 Mafefe,Mafefe,-24.16,30.1,LIM,Lepele-Nkumpi,Capricorn
+4,59,Domestic LR,Eskom LR,1998,1998 Makipsvlei,Makipsvlei,-24.92,29.04,LIM,Ephraim Mogale,Sekhukhune
+4,61,Domestic LR,Eskom LR,1998,1998 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+4,60,Domestic LR,Eskom LR,1997,1997 Makipsvlei,Makipsvlei,-24.92,29.04,LIM,Ephraim Mogale,Sekhukhune
+4,62,Domestic LR,Eskom LR,1997,1997 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+0,1000100,Domestic LR,Eskom LR,1997,New Group,Group,,,,,
+0,1000101,Domestic LR,Eskom LR,1997,New Group,Group,,,,,
+2,101,Domestic LR,Eskom LR,2001,2001 Gasese,Gasese,-27.11,23.05,NC,Joe Morolong,John Taolo Gaetsewe
+2,103,Domestic LR,Eskom LR,2001,2001 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+2,98,Domestic LR,Eskom LR,2001,2001 Garagapola,Garagapola,-24.56,30.16,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+2,100,Domestic LR,Eskom LR,2001,2001 Antioch,Antioch,-30.09,29.81,KZN,Umzimkhulu,Sisonke
+2,102,Domestic LR,Eskom LR,2001,2001 Mafefe,Mafefe,-24.16,30.1,LIM,Lepele-Nkumpi,Capricorn
+2,104,Domestic LR,Eskom LR,2001,2001 Mfazazane,Mfazazane,-30.55,30.55,KZN,Ray Nkonyeni,Ugu
+2,114,Domestic LR,Eskom LR,2002,2002 Garagapola,Garagapola,-24.56,30.16,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+2,116,Domestic LR,Eskom LR,2002,2002 Mafefe,Mafefe,-24.16,30.1,LIM,Lepele-Nkumpi,Capricorn
+2,118,Domestic LR,Eskom LR,2002,2002 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+2,2000002,Domestic LR,Eskom LR,2002,2002 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,2000003,Domestic LR,Eskom LR,2002,2002 Maconqo,Maconqo,-29.57,30.55,KZN,Mkhambathini,Umgungundlovu
+2,1000005,Domestic LR,Eskom LR,2002,2002 Ikgomotseng,Ikgomotseng,-28.73,26.1,FS,Mangaung,Mangaung
+2,113,Domestic LR,Eskom LR,2002,2002 Antioch,Antioch,-30.09,29.81,KZN,Umzimkhulu,Sisonke
+2,115,Domestic LR,Eskom LR,2002,2002 Gasese,Gasese,-27.11,23.05,NC,Joe Morolong,John Taolo Gaetsewe
+2,117,Domestic LR,Eskom LR,2002,2002 Mfazazane,Mfazazane,-30.55,30.55,KZN,Ray Nkonyeni,Ugu
+2,1000007,Domestic LR,Eskom LR,2003,2003 Antioch,Antioch,-30.09,29.81,KZN,Umzimkhulu,Sisonke
+2,1000008,Domestic LR,Eskom LR,2003,2003 Garagapola,Garagapola,-24.56,30.16,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+2,1000009,Domestic LR,Eskom LR,2003,2003 Gasese,Gasese,-27.11,23.05,NC,Joe Morolong,John Taolo Gaetsewe
+2,1000010,Domestic LR,Eskom LR,2003,2003 Ikgomotseng,Ikgomotseng,-28.73,26.1,FS,Mangaung,Mangaung
+2,1000011,Domestic LR,Eskom LR,2003,2003 Maconqo,Maconqo,-29.57,30.55,KZN,Mkhambathini,Umgungundlovu
+2,1000012,Domestic LR,Eskom LR,2003,2003 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000013,Domestic LR,Eskom LR,2003,2003 Mfazazane,Mfazazane,-30.55,30.55,KZN,Ray Nkonyeni,Ugu
+2,1000014,Domestic LR,Eskom LR,2003,2003 Tambo,Tambo,-32.13,26.81,EC,Enoch Mgijima,Chris Hani
+2,1000022,Domestic LR,Eskom LR,2004,2004 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000026,Domestic LR,Eskom LR,2004,2004 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+2,1000027,Domestic LR,Eskom LR,2004,2004 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000028,Domestic LR,Eskom LR,2004,2004 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000029,Domestic LR,Eskom LR,2004,2004 Driekoppies,Driekoppies,-25.7,31.55,MP,Nkomazi,Ehlanzeni
+2,1000031,Domestic LR,Eskom LR,2005,2005 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000032,Domestic LR,Eskom LR,2005,2005 Peacetown,Peacetown,-28.44,29.74,KZN,Alfred Duma,Uthukela
+2,1000033,Domestic LR,Eskom LR,2005,2005 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000034,Domestic LR,Eskom LR,2005,2005 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000035,Domestic LR,Eskom LR,2005,2005 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+2,1000036,Domestic LR,Eskom LR,2005,2005 Driekoppies,Driekoppies,-25.7,31.55,MP,Nkomazi,Ehlanzeni
+2,1000054,Domestic LR,Eskom LR,2006,2006 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000055,Domestic LR,Eskom LR,2006,2006 Driekoppies,Driekoppies,-25.7,31.55,MP,Nkomazi,Ehlanzeni
+2,1000056,Domestic LR,Eskom LR,2006,2006 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000057,Domestic LR,Eskom LR,2006,2006 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000059,Domestic LR,Eskom LR,2006,2006 Peacetown,Peacetown,-28.44,29.74,KZN,Alfred Duma,Uthukela
+2,1000060,Domestic LR,Eskom LR,2006,2006 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+2,1000063,Domestic LR,Eskom LR,2007,2007 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000064,Domestic LR,Eskom LR,2007,2007 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000065,Domestic LR,Eskom LR,2007,2007 Peacetown,Peacetown,-28.44,29.74,KZN,Alfred Duma,Uthukela
+2,1000066,Domestic LR,Eskom LR,2007,2007 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+2,1000062,Domestic LR,Eskom LR,2007,2007 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000075,Domestic LR,Eskom LR,2008,2008 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000076,Domestic LR,Eskom LR,2008,2008 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000077,Domestic LR,Eskom LR,2008,2008 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000078,Domestic LR,Eskom LR,2008,2008 Peacetown,Peacetown,-28.44,29.74,KZN,Alfred Duma,Uthukela
+2,1000079,Domestic LR,Eskom LR,2008,2008 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+2,1000081,Domestic LR,Eskom LR,2009,2009 Dinokana,Dinokana,-25.44,25.86,NW,Ramotshere Moiloa,Ngaka Modiri Molema
+2,1000082,Domestic LR,Eskom LR,2009,2009 Khayalitsha,Khayalitsha,-34.04,18.69,WC,City of Cape Town,City of Cape Town
+2,1000083,Domestic LR,Eskom LR,2009,2009 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+2,1000084,Domestic LR,Eskom LR,2009,2009 Peacetown,Peacetown,-28.44,29.74,KZN,Alfred Duma,Uthukela
+2,1000085,Domestic LR,Eskom LR,2009,2009 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000003,1000088,Domestic LR,Eskom LR,2009,2009b Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000003,1000089,Domestic LR,Eskom LR,2009,2009b Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000003,1000092,Domestic LR,Eskom LR,2009,2009b Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000003,1000093,Domestic LR,Eskom LR,2009,2009b Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000095,Domestic LR,Eskom LR,2010,2010 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000097,Domestic LR,Eskom LR,2010,2010 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000098,Domestic LR,Eskom LR,2010,2010 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000099,Domestic LR,Eskom LR,2010,2010 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000102,Domestic LR,Eskom LR,2010,2010 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000103,Domestic LR,Eskom LR,2010,2010 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000104,Domestic LR,Eskom LR,2011,2011 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000105,Domestic LR,Eskom LR,2011,2011 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000106,Domestic LR,Eskom LR,2011,2011 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000107,Domestic LR,Eskom LR,2011,2011 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000108,Domestic LR,Eskom LR,2011,2011 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000109,Domestic LR,Eskom LR,2011,2011 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000111,Domestic LR,Eskom LR,2012,2012 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000112,Domestic LR,Eskom LR,2012,2012 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000113,Domestic LR,Eskom LR,2012,2012 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000114,Domestic LR,Eskom LR,2012,2012 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000115,Domestic LR,Eskom LR,2012,2012 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000116,Domestic LR,Eskom LR,2012,2012 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000117,Domestic LR,Eskom LR,2012,2012 Matsulu,Matsulu,-25.51232515,31.34582484,MP,Mbombela,Ehlanzeni
+1000004,1000118,Domestic LR,Eskom LR,2012,2012 Seloshesa,Seloshesa,-29.19967496,26.80923109,FS,Mangaung,Mangaung
+1000004,1000119,Domestic LR,Eskom LR,2012,2012 Butterworth,Butterworth,-32.31762239,28.20553465,EC,Mnquma,Amathole
+1000004,1000120,Domestic LR,Eskom LR,2012,2012 Fourways Gdns,Fourways Gdns,-26.0058,28.0019,GP,City of Johannesburg,City of Johannesburg
+1000004,1000122,Domestic LR,Eskom LR,2013,2013 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000123,Domestic LR,Eskom LR,2013,2013 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000124,Domestic LR,Eskom LR,2013,2013 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000125,Domestic LR,Eskom LR,2013,2013 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000126,Domestic LR,Eskom LR,2013,2013 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000127,Domestic LR,Eskom LR,2013,2013 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000128,Domestic LR,Eskom LR,2013,2013 Matsulu,Matsulu,-25.51232515,31.34582484,MP,Mbombela,Ehlanzeni
+1000004,1000129,Domestic LR,Eskom LR,2013,2013 Seloshesa,Seloshesa,-29.19967496,26.80923109,FS,Mangaung,Mangaung
+1000004,1000130,Domestic LR,Eskom LR,2013,2013 Butterworth,Butterworth,-32.31762239,28.20553465,EC,Mnquma,Amathole
+1000004,1000131,Domestic LR,Eskom LR,2013,2013 Fourways Gdns,Fourways Gdns,-26.0058,28.0019,GP,City of Johannesburg,City of Johannesburg
+1000004,1000132,Domestic LR,Eskom LR,2013,2013 Dipelaneng,Dipelaneng,-29.51060165,27.14995751,FS,Mantsopa,Thabo Mofutsanyane
+1000004,1000133,Domestic LR,Eskom LR,2013,2013 Bophelong,Bophelong,-26.69245893,27.79967542,GP,Emfuleni,Sedibeng
+1000004,1000134,Domestic LR,Eskom LR,2013,2013 Phomolong,Phomolong,-28.01601881,27.08179789,FS,Matjhabeng,Lejweleputswa
+1000004,1000136,Domestic LR,Eskom LR,2014,2014 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000137,Domestic LR,Eskom LR,2014,2014 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000138,Domestic LR,Eskom LR,2014,2014 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000139,Domestic LR,Eskom LR,2014,2014 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000140,Domestic LR,Eskom LR,2014,2014 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000141,Domestic LR,Eskom LR,2014,2014 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000142,Domestic LR,Eskom LR,2014,2014 Matsulu,Matsulu,-25.51232515,31.34582484,MP,Mbombela,Ehlanzeni
+1000004,1000143,Domestic LR,Eskom LR,2014,2014 Seloshesa,Seloshesa,-29.19967496,26.80923109,FS,Mangaung,Mangaung
+1000004,1000144,Domestic LR,Eskom LR,2014,2014 Butterworth,Butterworth,-32.31762239,28.20553465,EC,Mnquma,Amathole
+1000004,1000145,Domestic LR,Eskom LR,2014,2014 Fourways Gdns,Fourways Gdns,-26.0058,28.0019,GP,City of Johannesburg,City of Johannesburg
+1000004,1000146,Domestic LR,Eskom LR,2014,2014 Dipelaneng,Dipelaneng,-29.51060165,27.14995751,FS,Mantsopa,Thabo Mofutsanyane
+1000004,1000147,Domestic LR,Eskom LR,2014,2014 Bophelong,Bophelong,-26.69245893,27.79967542,GP,Emfuleni,Sedibeng
+1000004,1000148,Domestic LR,Eskom LR,2014,2014 Phomolong,Phomolong,-28.01601881,27.08179789,FS,Matjhabeng,Lejweleputswa
+1000004,1000150,Domestic LR,Eskom LR,2015,2015 Ga-Luka,Ga-Luka,-25.507355,27.190905,NW,Rustenburg,Bojanala
+1000004,1000151,Domestic LR,Eskom LR,2015,2015 Ga-Nkoane,Ga-Nkoane,-24.416673,29.783335,LIM,Greater Tubatse/Fetakgomo,Sekhukhune
+1000004,1000152,Domestic LR,Eskom LR,2015,2015 Hankey,Hankey,-33.824081,24.871931,EC,Kouga,Cacadu
+1000004,1000153,Domestic LR,Eskom LR,2015,2015 Matshana,Matshana,-28.75,31.85,KZN,uMhlathuze,Uthungulu
+1000004,1000154,Domestic LR,Eskom LR,2015,2015 Vlaklaagte,Vlaklaagte,-25.33,28.87,MP,Thembisile,Nkangala
+1000004,1000155,Domestic LR,Eskom LR,2015,2015 Wattville,Wattville,-26.221098,28.30327,GP,Ekurhuleni,Ekurhuleni
+1000004,1000156,Domestic LR,Eskom LR,2015,2015 Matsulu,Matsulu,-25.51232515,31.34582484,MP,Mbombela,Ehlanzeni
+1000004,1000157,Domestic LR,Eskom LR,2015,2015 Seloshesa,Seloshesa,-29.19967496,26.80923109,FS,Mangaung,Mangaung
+1000004,1000158,Domestic LR,Eskom LR,2015,2015 Butterworth,Butterworth,-32.31762239,28.20553465,EC,Mnquma,Amathole
+1000004,1000159,Domestic LR,Eskom LR,2015,2015 Fourways Gdns,Fourways Gdns,-26.0058,28.0019,GP,City of Johannesburg,City of Johannesburg
+1000004,1000160,Domestic LR,Eskom LR,2015,2015 Dipelaneng,Dipelaneng,-29.51060165,27.14995751,FS,Mantsopa,Thabo Mofutsanyane
+1000004,1000161,Domestic LR,Eskom LR,2015,2015 Bophelong,Bophelong,-26.69245893,27.79967542,GP,Emfuleni,Sedibeng
+1000004,1000162,Domestic LR,Eskom LR,2015,2015 Phomolong,Phomolong,-28.01601881,27.08179789,FS,Matjhabeng,Lejweleputswa
+1000004,1000163,Domestic LR,Eskom LR,2015,2015 Hopewell,Hopewell,,,,,
+1000004,1000164,Domestic LR,Eskom LR,2015,2015 Morokweng,Morokweng,,,,,
+2,13,Domestic LR,NRS LR,2000,2000 Woodhaven,Woodhaven,-29.91,30.94,KZN,eThekwini,eThekwini
+2,15,Domestic LR,NRS LR,2000,2000 Rontree Estate,Rontree Estate,-33.96,18.38,WC,City of Cape Town,City of Cape Town
+2,17,Domestic LR,NRS LR,2000,2000 Summerstrand,Summerstrand,-34.0,25.65,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,10,Domestic LR,NRS LR,2000,2000 Helderberg,Helderberg,-34.11,18.84,WC,City of Cape Town,City of Cape Town
+2,12,Domestic LR,NRS LR,2000,2000 Orient Hills,Orient Hills,-30.0,30.91,KZN,eThekwini,eThekwini
+2,16,Domestic LR,NRS LR,2000,2000 Sanctuary Gardens,Sanctuary Gardens,-26.1,27.91,GP,City of Johannesburg,City of Johannesburg
+2,18,Domestic LR,NRS LR,2000,2000 Tafelsig,Tafelsig,-34.05,18.63,WC,City of Cape Town,City of Cape Town
+2,27,Domestic LR,NRS LR,2000,2000 Lotus Park,Lotus Park,-29.99,30.91,KZN,eThekwini,eThekwini
+4,66,Domestic LR,NRS LR,1999,1999 Tafelsig,Tafelsig,-34.05,18.63,WC,City of Cape Town,City of Cape Town
+4,67,Domestic LR,NRS LR,1999,1999 Sanctuary Gardens,Sanctuary Gardens,-26.1,27.91,GP,City of Johannesburg,City of Johannesburg
+4,68,Domestic LR,NRS LR,1999,1999 Umlazi AA,Umlazi AA,-29.97,30.86,KZN,eThekwini,eThekwini
+4,69,Domestic LR,NRS LR,1999,1999 Lotus Park,Lotus Park,-29.99,30.91,KZN,eThekwini,eThekwini
+4,70,Domestic LR,NRS LR,1999,1999 Orient Hills,Orient Hills,-30.0,30.91,KZN,eThekwini,eThekwini
+4,71,Domestic LR,NRS LR,1999,1999 Summerstrand,Summerstrand,-34.0,25.65,EC,Nelson Mandela Bay,Nelson Mandela Bay
+4,72,Domestic LR,NRS LR,1999,1999 Helderberg,Helderberg,-34.11,18.84,WC,City of Cape Town,City of Cape Town
+4,73,Domestic LR,NRS LR,1999,1999 Rontree Estate,Rontree Estate,-33.96,18.38,WC,City of Cape Town,City of Cape Town
+4,49,Domestic LR,NRS LR,1998,1998 Helderberg,Helderberg,-34.11,18.84,WC,City of Cape Town,City of Cape Town
+4,50,Domestic LR,NRS LR,1998,1998 Umlazi AA,Umlazi AA,-29.97,30.86,KZN,eThekwini,eThekwini
+4,51,Domestic LR,NRS LR,1998,1998 Umgaga,Umgaga,-29.95,30.84,KZN,eThekwini,eThekwini
+4,52,Domestic LR,NRS LR,1998,1998 Walmer Dunes,Walmer Dunes,-33.99,25.59,EC,Nelson Mandela Bay,Nelson Mandela Bay
+4,53,Domestic LR,NRS LR,1998,1998 Claremont,Claremont,-26.18,27.95,GP,City of Johannesburg,City of Johannesburg
+4,54,Domestic LR,NRS LR,1998,1998 Tafelsig,Tafelsig,-34.05,18.63,WC,City of Cape Town,City of Cape Town
+4,55,Domestic LR,NRS LR,1998,1998 Lotus Park,Lotus Park,-29.99,30.91,KZN,eThekwini,eThekwini
+4,56,Domestic LR,NRS LR,1998,1998 Orient Hills,Orient Hills,-30.0,30.91,KZN,eThekwini,eThekwini
+4,42,Domestic LR,NRS LR,1997,1997 Helderberg,Helderberg,-34.11,18.84,WC,City of Cape Town,City of Cape Town
+4,44,Domestic LR,NRS LR,1997,1997 Umgaga,Umgaga,-29.95,30.84,KZN,eThekwini,eThekwini
+4,45,Domestic LR,NRS LR,1997,1997 Umlazi AA,Umlazi AA,-29.97,30.86,KZN,eThekwini,eThekwini
+4,46,Domestic LR,NRS LR,1997,1997 Claremont,Claremont,-26.18,27.95,GP,City of Johannesburg,City of Johannesburg
+4,47,Domestic LR,NRS LR,1997,1997 Walmer Dunes,Walmer Dunes,-33.99,25.59,EC,Nelson Mandela Bay,Nelson Mandela Bay
+4,48,Domestic LR,NRS LR,1997,1997 Manyatseng,Manyatseng,-29.16,27.46,FS,Mantsopa,Thabo Mofutsanyane
+4,43,Domestic LR,NRS LR,1997,1997 Sweetwaters,Sweetwaters,-29.6,30.29,KZN,The Msunduzi,Umgungundlovu
+4,36,Domestic LR,NRS LR,1996,1996 Manyatseng,Manyatseng,-29.16,27.46,FS,Mantsopa,Thabo Mofutsanyane
+4,40,Domestic LR,NRS LR,1996,1996 Sweetwaters,Sweetwaters,-29.6,30.29,KZN,The Msunduzi,Umgungundlovu
+4,37,Domestic LR,NRS LR,1996,1996 Claremont,Claremont,-26.18,27.95,GP,City of Johannesburg,City of Johannesburg
+4,38,Domestic LR,NRS LR,1995,1995 Kwazakhele,Kwazakhele,-33.88,25.58,EC,Nelson Mandela Bay,Nelson Mandela Bay
+4,39,Domestic LR,NRS LR,1995,1995 Umlazi AA,Umlazi AA,-29.97,30.86,KZN,eThekwini,eThekwini
+4,35,Domestic LR,NRS LR,1994,1994 Cloetesville,Cloetesville,-33.9,18.85,WC,Stellenbosch,Cape Winelands
+0,105,Domestic LR,NRS LR,2001,2001 Bassonia,Bassonia,,,,,
+2,107,Domestic LR,NRS LR,2001,2001 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,109,Domestic LR,NRS LR,2001,2001 Moreletta Park,Moreletta Park,-25.82,28.29,GP,City of Tshwane,City of Tshwane
+2,111,Domestic LR,NRS LR,2001,2001 Woodhaven,Woodhaven,-29.91,30.94,KZN,eThekwini,eThekwini
+2,106,Domestic LR,NRS LR,2001,2001 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,108,Domestic LR,NRS LR,2001,2001 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,110,Domestic LR,NRS LR,2001,2001 Welgemoed,Welgemoed,-33.87,18.6,WC,City of Cape Town,City of Cape Town
+2,121,Domestic LR,NRS LR,2002,2002 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,120,Domestic LR,NRS LR,2002,2002 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,122,Domestic LR,NRS LR,2002,2002 Moreletta Park,Moreletta Park,-25.82,28.29,GP,City of Tshwane,City of Tshwane
+2,123,Domestic LR,NRS LR,2002,2002 Welgemoed,Welgemoed,-33.87,18.6,WC,City of Cape Town,City of Cape Town
+2,124,Domestic LR,NRS LR,2002,2002 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,125,Domestic LR,NRS LR,2002,2002 Woodhaven,Woodhaven,-29.91,30.94,KZN,eThekwini,eThekwini
+2,1000016,Domestic LR,NRS LR,2003,2003 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,1000017,Domestic LR,NRS LR,2003,2003 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,1000018,Domestic LR,NRS LR,2003,2003 Moreletta Park,Moreletta Park,-25.82,28.29,GP,City of Tshwane,City of Tshwane
+2,1000019,Domestic LR,NRS LR,2003,2003 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,1000023,Domestic LR,NRS LR,2004,2004 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,1000024,Domestic LR,NRS LR,2004,2004 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,1000025,Domestic LR,NRS LR,2004,2004 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,1000038,Domestic LR,NRS LR,2005,2005 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,1000039,Domestic LR,NRS LR,2005,2005 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,1000040,Domestic LR,NRS LR,2005,2005 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,1000041,Domestic LR,NRS LR,2005,2005 La Lucia,La Lucia,-29.748282,31.066504,KZN,eThekwini,eThekwini
+2,1000042,Domestic LR,NRS LR,2005,2005 Woodhill,Woodhill,-25.81463,28.315609,GP,City of Tshwane,City of Tshwane
+2,1000049,Domestic LR,NRS LR,2006,2006 Greenturf,Greenturf,-33.99,18.53,WC,City of Cape Town,City of Cape Town
+2,1000050,Domestic LR,NRS LR,2006,2006 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,1000051,Domestic LR,NRS LR,2006,2006 La Lucia,La Lucia,-29.748282,31.066504,KZN,eThekwini,eThekwini
+2,1000052,Domestic LR,NRS LR,2006,2006 Westridge,Westridge,-34.04,18.59,WC,City of Cape Town,City of Cape Town
+2,1000053,Domestic LR,NRS LR,2006,2006 Woodhill,Woodhill,-25.81463,28.315609,GP,City of Tshwane,City of Tshwane
+2,1000068,Domestic LR,NRS LR,2007,2007 Kabega,Kabega,-33.95,25.49,EC,Nelson Mandela Bay,Nelson Mandela Bay
+2,1000069,Domestic LR,NRS LR,2007,2007 Woodhill,Woodhill,-25.81463,28.315609,GP,City of Tshwane,City of Tshwane
+2,1000071,Domestic LR,NRS LR,2008,2008 Woodhill,Woodhill,-25.81463,28.315609,GP,City of Tshwane,City of Tshwane
+2,1000087,Domestic LR,NRS LR,2009,2009 Woodhill,Woodhill,-25.81463,28.315609,GP,City of Tshwane,City of Tshwane
+4,63,Domestic LR,Namibia,1999,1999 Ongwediva,Ongwediva,,,,,
+4,64,Domestic LR,Namibia,1999,1999 Walvis Bay,Walvis Bay,,,,,
+4,65,Domestic LR,Namibia,1999,1999 Windhoek A,Windhoek A,,,,,
+5,85,Domestic LR,Namibia,2000,2000 Windhoek A,Windhoek A,,,,,
+5,87,Domestic LR,Namibia,2000,2000 Windhoek B,Windhoek B,,,,,
+5,86,Domestic LR,Namibia,2000,2000 Ongwediva,Ongwediva,,,,,
+5,88,Domestic LR,Namibia,2000,2000 Walvis Bay,Walvis Bay,,,,,
+5,93,Domestic LR,Namibia,2001,2001 Ongwediva,Ongwediva,,,,,
+5,94,Domestic LR,Namibia,2001,2001 Walvis Bay,Walvis Bay,,,,,
+5,95,Domestic LR,Namibia,2001,2001 Windhoek A,Windhoek A,,,,,
+5,96,Domestic LR,Namibia,2001,2001 Windhoek B,Windhoek B,,,,,
